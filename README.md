@@ -1,2 +1,0 @@
-# mycaptain-assignment
-fibonacci sequence
